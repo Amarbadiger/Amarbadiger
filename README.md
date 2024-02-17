@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **node,express mangodb and postgres Sql**
 
-- 👨‍💻 All of my projects are available at [https://amar-badiger.netlify.app/](https://amar-badiger.netlify.app/)
+- 👨‍💻 PORTFOLIO [https://amar-badiger.netlify.app/](https://amar-badiger.netlify.app/)
 
 - 📫 How to reach me **amarbadiger45@gmail.com**
 
