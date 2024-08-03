@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amar Badiger</h1>
 <h3 align="center">A Passionate Full Developer From India</h3>
 
-- 🌱 I’m currently learning **node,express mangodb and postgres Sql**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 PORTFOLIO [https://amar-badiger.netlify.app/](https://amar-badiger.netlify.app/)
 
